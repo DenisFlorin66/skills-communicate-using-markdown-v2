@@ -21,3 +21,10 @@ function multiply($number){
   return 2 * $number;
 }
 ```
+
+
+And now, the most awaited from the list: The TASKLIST!
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
