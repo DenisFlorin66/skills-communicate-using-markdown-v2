@@ -1,0 +1,6 @@
+# This is the H1 header in a readme file using markdown
+
+## This is the H2 header. Now you know the drill until H6
+
+### Okay, one more header(H3) for you to understand
+
